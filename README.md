@@ -7,6 +7,6 @@ Programming is my hobby, not profession!
 
 This game was written just for practice purposes.
 
-You can learn from it, distributing isn't allowed.
+Keep learning :)
 
 For any type of querries mail me at: 14TL02@student.muet.edu.pk
